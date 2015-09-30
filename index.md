@@ -1,12 +1,13 @@
 ---
 layout: default
-title: Welcome!
+title: DotMatrix™ Photo Gallery Wall Kits | MAGNETS ARE RAD
 description: This is my site. Welcome.
-keywords: github pages, Jekyll, foundation 5
+keywords: gallery wall kit, photo gallery wall, picture gallery wall
 ---
-
-<h1 class="mvl">Whoa! Jekyll, Foundation 5, HTML5 boilerplate and github pages!</h1>
-
+<div class="row">
+    <h3 class="mvl">Meet DotMatrix™</h2>
+    <h2 class="mvl"><span>The incredibly versatile,</span> <span>ridiculously easy to install, <span class="bold">photo gallery system.</span></h1>
+</div>
 
 <div class="row">
 	<div class="medium-9 large-7 small-centered column">
@@ -24,7 +25,6 @@ keywords: github pages, Jekyll, foundation 5
 
 	</div>
 </div>
-
 
 <div class="row"> 
 

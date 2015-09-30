@@ -1,13 +1,13 @@
 name : Foundation5/github pages/Jykill starter
-brand : My Site
-description : This is the description of my site
+brand : MagnetsAreRad
+description : Home of the DotMatrix™ Photo Gallery Wall Kit
 keyword : 
-url : http://daigofuji.github.io/jekyll-foundation-5-starter/
-email : daigo@daigofujiwara.com
-twitter : DaigoFuji
-github : DaigoFuji
-author : Daigo Fujiwara
-analytics : UA-8418273-8
+url : https://magnetsarerad.com
+email : support@magnetsarerad.com
+twitter : MagnetsAreRad
+github : empirenine
+author : Mike MacDonald
+analytics : UA-68276202-1
 year : 2015
 markdown : kramdown
 exclude :
